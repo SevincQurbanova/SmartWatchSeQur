@@ -162,17 +162,21 @@
 
 /* fourth section  //images01.nicepage.com/51/b3/51b3bdc….jpeg*/
 .fourth-section{
-
     background-image: url('../images/fourth-img.jpeg');
+    background-repeat: no-repeat;
     background-position: center;
     height: 500px;
-    background-repeat: no-repeat;
     background-size: cover;
-    display: flex;
-    align-items: end;
-    justify-content: center;
-    position: relative;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+
+    padding: 50px 0;
+   /* 
+    
+    position: relative;
+*/
 
 }
 
@@ -206,7 +210,7 @@
     align-items: end;
     justify-content: center;
     position: relative;
-
+    padding: 50px 0;
 
 }
 
@@ -249,7 +253,7 @@
    /* background-image: url('../images/sixth-img.jpeg');
     min-height: 418px;
     background-position: 50% 50%;*/
-
+   
 }
 
 .sixth-section h2{
@@ -306,8 +310,7 @@
     align-items: end;
     justify-content: center;
     position: relative;
-
-
+    padding: 50px 0;
 }
 
 .seventh-section h2{
@@ -348,7 +351,7 @@
     justify-content: center;
     position: relative;
 
-
+    padding: 50px 0;
 }
 
 .eighth-section h2{
