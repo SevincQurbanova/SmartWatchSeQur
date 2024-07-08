@@ -111,6 +111,8 @@
 .second-section img{
     width: 55%;
 }
+
+
 .third-section{
     background-color: #35506d;
     padding: 40px 0;
@@ -153,6 +155,226 @@
 .element1 li h4,.element3 li h4{
     font-weight: 400;
 }
+
+
+
+
+
+/* fourth section  //images01.nicepage.com/51/b3/51b3bdc….jpeg*/
+.fourth-section{
+
+    background-image: url('../images/fourth-img.jpeg');
+    background-position: center;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    position: relative;
+
+
+}
+
+.fourth-section h2{
+    color: #fff;
+    text-align: center;
+    font-size: 27px;
+    font-weight: 400;
+}
+
+.fourth-section p {
+    color: #fff;
+    width: 80%;
+    text-align: center;
+    margin: 20px auto 0 auto;
+}
+
+.fourth-section .section-inner .section-content a{
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+.fifth-section{
+
+    background-image: url('../images/fifth-img.jpeg');
+    background-position: 50% 50%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    position: relative;
+
+
+}
+
+.fifth-section h2{
+    color: #fff;
+    text-align: center;
+    font-size: 27px;
+    font-weight: 400;
+}
+
+.fifth-section p {
+    color: #fff;
+    width: 80%;
+    text-align: center;
+    margin: 20px auto 0 auto;
+}
+
+.fifth-section .section-inner .section-content a{
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sixth-section{
+
+    background-color: #35506d;
+    padding: 40px 0;
+   /* background-image: url('../images/sixth-img.jpeg');
+    min-height: 418px;
+    background-position: 50% 50%;*/
+
+}
+
+.sixth-section h2{
+    color: #fff;
+    text-align: center;
+    font-size: 27px;
+    font-weight: 400;
+}
+.sixth-section .section-inner{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.sixth-section .third-element{
+    width: 30%;
+}
+.sixth-section .element2{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.sixth-section .element2 li{
+    color: #fff;
+    display: flex;
+    margin-bottom: 40px;
+}
+.sixth-section .element2 li img{
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+}
+.sixth-section .element2 li p{
+    font-size: 12px;
+    margin-top: 10px;
+}
+.sixth-section .element2 li h4{
+    font-weight: 400;
+}
+
+
+
+
+/* seventh section  //images01.nicepage.com/51/b3/51b3bdc….jpeg*/
+.seventh-section{
+
+    background-image: url('../images/seventh-img.jpeg');
+    background-position: center;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    position: relative;
+
+
+}
+
+.seventh-section h2{
+    color: #fff;
+    text-align: center;
+    font-size: 27px;
+    font-weight: 400;
+}
+
+.seventh-section p {
+    color: #fff;
+    width: 80%;
+    text-align: center;
+    margin: 20px auto 0 auto;
+}
+
+.seventh-section .section-inner .section-content a{
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+
+
+
+
+
+
+/* eighth section  //images01.nicepage.com/51/b3/51b3bdc….jpeg*/
+.eighth-section{
+
+    background-image: url('../images/eighth-img.jpeg');
+    background-position: center;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    position: relative;
+
+
+}
+
+.eighth-section h2{
+    color: #fff;
+    text-align: center;
+    font-size: 27px;
+    font-weight: 400;
+}
+
+.eighth-section p {
+    color: #fff;
+    width: 80%;
+    text-align: center;
+    margin: 20px auto 0 auto;
+}
+
+.eighth-section .section-inner .section-content a{
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+
+
+
+
+
 
 /*Responsive breakpoints*/
 
